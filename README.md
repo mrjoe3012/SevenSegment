@@ -164,6 +164,10 @@ The enum `SevenSegment` defines the lookup-table indices:
 
 Use `SS_COUNT` as the lookup-table length and when iterating through all available characters.
 
+## AI Disclaimer
+
+AI **was not used** to generate the code in this library. AI was used to generate the README file from existing, manually written source examples.
+
 ## License
 
 Copyright 2026 Joseph Agrane
